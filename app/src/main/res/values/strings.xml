@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">纳米学位应用</string>
+    <string name="popular_film">热门电影</string>
+    <string name="share_eagle">股票雄鹰</string>
+    <string name="XYZ_reader">XYZ阅读器</string>
+    <string name="recent_news">最新闻</string>
+    <string name="graduate_design">毕业设计</string>
+    <string name="titlebar_name">我的应用作品集</string>
 </resources>
