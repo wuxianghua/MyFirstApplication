@@ -15,18 +15,28 @@
         android:textSize="@dimen/dimen_size_20"
         android:text="@string/titlebar_name" />
     <TextView
+        android:onClick="openApplication"
+        android:id="@+id/tv_popular_film"
         android:text="@string/popular_film"
         style="@style/tv_content_mainactivity" />
     <TextView
+        android:onClick="openApplication"
+        android:id="@+id/tv_share_eagle"
         style="@style/tv_content_mainactivity"
         android:text="@string/share_eagle" />
     <TextView
+        android:onClick="openApplication"
+        android:id="@+id/tv_XYZ_reader"
         style="@style/tv_content_mainactivity"
         android:text="@string/XYZ_reader" />
     <TextView
+        android:id="@+id/tv_recent_news"
+        android:onClick="openApplication"
         style="@style/tv_content_mainactivity"
         android:text="@string/recent_news" />
     <TextView
+        android:id="@+id/tv_graduate_design"
+        android:onClick="openApplication"
         style="@style/tv_content_mainactivity"
         android:text="@string/graduate_design" />
 </LinearLayout>
